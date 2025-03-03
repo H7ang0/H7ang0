@@ -18,13 +18,6 @@
       你好！
     </div>
   </div>
-
-  <div class="projects">
-    <h2>More Projects</h2>
-    <div class="project-icon">
-      <i class="fab fa-github-square"></i>
-    </div>
-  </div>
 </div>
 
 <style>
@@ -72,16 +65,6 @@ h1 {
   font-size: 1.5rem;
   margin-bottom: 0.5rem;
   color: #3498db;
-}
-
-.projects {
-  text-align: center;
-}
-
-.project-icon {
-  font-size: 2rem;
-  color: #3498db;
-  margin-top: 1rem;
 }
 </style>
 
