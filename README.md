@@ -21,10 +21,9 @@
 
   <div class="projects">
     <h2>More Projects</h2>
-    <a href="https://github.com/H7ang0" class="project-link">
+    <div class="project-icon">
       <i class="fab fa-github-square"></i>
-      GitHub
-    </a>
+    </div>
   </div>
 </div>
 
@@ -79,18 +78,11 @@ h1 {
   text-align: center;
 }
 
-.project-link {
-  display: inline-block;
-  padding: 0.5rem 1rem;
+.project-icon {
+  font-size: 2rem;
   color: #3498db;
-  text-decoration: none;
-  font-weight: bold;
-  transition: transform 0.3s ease;
-}
-
-.project-link:hover {
-  transform: translateY(-5px);
+  margin-top: 1rem;
 }
 </style>
 
-<script src="https://kit.fontawesome.com/your-fontawesome-kit.js"></script>
+<!-- 移除了 Font Awesome 脚本引用 -->
