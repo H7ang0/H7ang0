@@ -4,5 +4,5 @@
 
 </div>
 
-👋 Hello there!  
-I'm H7yang0
+👋 Hello I'm H7yang0
+
