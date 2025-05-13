@@ -11,17 +11,6 @@
 <table align="center" width="80%" style="border:1px solid #eaeaea;border-radius:12px;padding:16px;background:#f9f9f9;">
 <tr><td>
 
-###  About Me
-
-- Reverse engineering for iOS & macOS  
-- Obsessive about native UI, smooth animation, and Apple-style logic  
-- Inspired by Vision Pro aesthetics and design language  
-
-</td></tr>
-</table>
-
-<br/>
-
 <table align="center" width="80%" style="border:1px solid #eaeaea;border-radius:12px;padding:16px;background:#f9f9f9;">
 <tr><td align="center">
 
