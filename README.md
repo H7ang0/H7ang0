@@ -7,12 +7,5 @@
 </div>
 
 <br/>
-
-<table align="center" width="80%" style="border:1px solid #eaeaea;border-radius:12px;padding:16px;background:#f9f9f9;">
-<tr><td>
-
-<table align="center" width="80%" style="border:1px solid #eaeaea;border-radius:12px;padding:16px;background:#f9f9f9;">
-<tr><td align="center">
-
 </td></tr>
 </table>
