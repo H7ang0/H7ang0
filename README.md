@@ -14,8 +14,5 @@
 <table align="center" width="80%" style="border:1px solid #eaeaea;border-radius:12px;padding:16px;background:#f9f9f9;">
 <tr><td align="center">
 
-> “Vision shapes reality. I build what I see.”  
-> — *H7yang0*
-
 </td></tr>
 </table>
